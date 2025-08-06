@@ -1,3 +1,6 @@
+<img width="1357" height="724" alt="Dashboard" src="https://github.com/user-attachments/assets/cfdae140-ef4a-4af0-8328-92aed619a0ce" />
+
+
 📊 Sales Dashboard Analysis
 Overview
 This project presents a comprehensive Sales Dashboard Analysis aimed at uncovering key sales trends, evaluating product performance, and identifying geographic sales strengths based on historical data.
